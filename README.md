@@ -24,4 +24,5 @@ The first step is to calibrate the ratio by having the user clicking on two dots
 With the distance in pixels and the stated size in centimeters it's possible to determine the ratio, and therefore determine the size in centimeters of any other two points selected later on.
 
 ## Print
+<img src="https://user-images.githubusercontent.com/1608564/230801453-bc2f8066-a5c1-4abd-8898-5ec99ce62702.png" width="50%"/>
 
